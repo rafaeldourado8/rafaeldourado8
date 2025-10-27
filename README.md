@@ -1,17 +1,68 @@
-👨🏻‍💻 Rafael Dourado
+<h1 align="center">👨🏻‍💻 Rafael Dourado</h1>
 
-Desenvolvedor Backend Python
+<h3 align="center">Desenvolvedor Backend Python 🐍</h3>
 
-Me chamo Rafael Dourado, tenho 23 anos e sou natural do Mato Grosso do Sul. Atualmente curso Engenharia de Software na Faculdade Estácio (EAD).
-Sou apaixonado por tecnologia e desenvolvimento backend, com foco em Python e ecossistemas modernos de servidores.
-Busco sempre aprimorar minhas habilidades e compartilhar conhecimento sobre o mundo da programação e infraestrutura moderna.
+<p align="center">
+  Sou <strong>Rafael Dourado</strong>, tenho 23 anos e sou natural do <strong>Mato Grosso do Sul</strong> 🇧🇷.<br/>
+  Estudo <strong>Engenharia de Software</strong> na <strong>Faculdade Estácio (EAD)</strong> e sou apaixonado por tecnologia.<br/>
+  Focado em <strong>desenvolvimento backend</strong> com Python e em arquiteturas modernas baseadas em microsserviços e containers.
+</p>
 
-<p align="left"> <a href="https://github.com/rafaeldourado8?tab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rafaeldourado8?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a> <a href="https://github.com/rafaeldourado8?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/rafaeldourado8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
-⚙️ Linguagens e Tecnologias
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img align="left" alt="C" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/> <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> <img align="left" alt="FastAPI" title="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/> <img align="left" alt="Flask" title="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/> <img align="left" alt="SQLAlchemy" title="SQLAlchemy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"/> <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/> <img align="left" alt="RabbitMQ" title="RabbitMQ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"/> <img align="left" alt="Redis" title="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/>  <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/> <br/> <br/>
-📊 Estatísticas
-<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=rafaeldourado8&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+---
 
-<img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldourado8&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<p align="center">
+  <a href="https://github.com/rafaeldourado8?tab=repositories&sort=stargazers">
+    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rafaeldourado8?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
+  </a>
+  <a href="https://github.com/rafaeldourado8?tab=followers">
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/rafaeldourado8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+  </a>
+</p>
 
+---
+
+### ⚙️ Linguagens & Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="45" height="45"/>
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldourado8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldourado8&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Principais Tecnologias" />
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+- 💻 Foco em **desenvolvimento backend com Python e FastAPI**
+- 🐋 Experiência com **Docker**, **PostgreSQL** e **microsserviços**
+- ⚙️ Interesse em **infraestrutura**, **mensageria (RabbitMQ)** e **cache (Redis)**
+- 📚 Em constante aprendizado para aprimorar a arquitetura e escalabilidade dos projetos
+
+---
+
+<p align="center">
+  <i>"A melhor forma de aprender é construir."</i> 🚀
+</p>
+
+<p align="center">
+  <a href="https://github.com/rafaeldourado8">
+    <img src="https://komarev.com/ghpvc/?username=rafaeldourado8&style=flat-square&color=blue" alt="Contador de visitas"/>
+  </a>
 </p>
