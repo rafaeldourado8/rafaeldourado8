@@ -94,11 +94,11 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafaeldourado8&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaeldourado8&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&locale=pt_BR" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaeldourado8&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3B82F6&line=3B82F6&point=ffffff" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaeldourado8&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3B82F6&line=3B82F6&point=ffffff" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -154,12 +154,17 @@ mindmap
 
 ---
 
-## 📈 Contribuições
+## 📈 Atividade no GitHub
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/rafaeldourado8/rafaeldourado8/output/github-contribution-grid-snake-dark.svg)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaeldourado8&theme=tokyonight" alt="GitHub Activity"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaeldourado8&theme=tokyonight" alt="Repos por Linguagem"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaeldourado8&theme=tokyonight" alt="Commits por Linguagem"/>
 </div>
 
 ---
@@ -183,5 +188,5 @@ Estou sempre aberto a novos desafios e colaborações!
 ---
 
 <div align="center">
-  <sub>✨ Construído com muito ☕ por Rafael Dourado</sub>
+  <sub>✨ Construído com ☕ por Rafael Dourado</sub>
 </div>
