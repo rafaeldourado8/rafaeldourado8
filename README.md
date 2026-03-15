@@ -1,192 +1,143 @@
 <div align="center">
 
-# 🚀 Rafael Dourado
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1f2d,100:0a2a1f&height=120&section=header" width="100%"/>
 
-### Backend Developer | Software Engineer | Python Specialist
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=13&duration=3000&pause=800&color=4A9EFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Backend+Engineer+%C2%B7+Distributed+Systems+%C2%B7+Intelligent+Systems;Dourados+%E2%80%93+MS%2C+Brasil" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Python+Specialist;Microservices+Architect;Open+Source+Enthusiast" alt="Typing SVG" />
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-dourado-dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeldouradoc7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaeldourado8)
+# Rafael Dourado
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1f2d?style=for-the-badge&logo=linkedin&logoColor=4a9eff)](https://linkedin.com/in/rafael-dourado-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=e8e6df)](https://github.com/rafaeldourado8)
+[![Email](https://img.shields.io/badge/rafaeldouradoc7%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=4a9eff)](mailto:rafaeldouradoc7@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+<div align="center">
+
+```
+Construo sistemas backend que precisam ser rápidos, corretos e resilientes.
+Foco na interseção entre arquitetura de software e inteligência aplicada —
+desde pipelines de RAG até processamento de vídeo com YOLOv8 em tempo real.
+
+Penso em sistemas antes de escrever código.
+Estimo capacidade. Modelo dados. Só então implemento.
+```
+
+</div>
+
+---
+
+## 🔭 Projeto Atual — GT-Vision VMS com IA
+
+> **Video Management System** white-label, self-hosted, multi-tenant com analytics modular.  
+> Financiado pelo **Grupo Trajano** · Em produção
 
 ```python
-class RafaelDourado:
-    def __init__(self):
-        self.name = "Rafael Dourado"
-        self.role = "Backend Developer"
-        self.age = 23
-        self.location = "Mato Grosso do Sul, Brasil 🇧🇷"
-        self.education = "Engenharia de Software - Faculdade Estácio"
-        self.languages = ["Python", "Java", "C"]
-        self.email = "rafaeldouradoc7@gmail.com"
-        
-    def get_current_focus(self):
-        return [
-            "Microservices Architecture",
-            "Clean Architecture & Design Patterns",
-            "High Performance APIs",
-            "DevOps & Cloud Infrastructure",
-            "Distributed Systems"
-        ]
-    
-    def say_hi(self):
-        print("Obrigado pela visita! Vamos construir algo incrível juntos!")
+class GTVision:
+    stack     = ["Django", "FastAPI", "MediaMTX", "RabbitMQ", "Redis", "PostgreSQL", "YOLOv8"]
+    infra     = ["Docker Compose", "Nginx", "AWS", "JWT Auth", "API Key Auth"]
+    analytics = ["intrusion", "people_count", "vehicle_count", "lpr_parking", "weapon", "face_recognition"]
 
-me = RafaelDourado()
-me.say_hi()
+    def diferencial(self):
+        return {
+            "cameras_burras":       "RTSP → YOLOv8 → evento (bullet vira inteligente)",
+            "cameras_inteligentes": "Hikvision/Intelbras ANPR → normaliza → persiste",
+            "agent_local":          "NAT/CGNAT traversal via ffmpeg + polling com backoff",
+            "event_bus":            "RabbitMQ topic exchange + Redis SSE realtime",
+            "multitenancy":         "Isolamento completo por tenant em todas as queries",
+        }
 ```
 
+[![Django](https://img.shields.io/badge/Django-0d2b0d?style=flat-square&logo=django&logoColor=4caf70)](.)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0d2424?style=flat-square&logo=fastapi&logoColor=00d4aa)](.)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-2d1a0d?style=flat-square&logo=rabbitmq&logoColor=FF6600)](.)
+[![Redis](https://img.shields.io/badge/Redis-2d0d0d?style=flat-square&logo=redis&logoColor=ff4444)](.)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1a2d?style=flat-square&logo=postgresql&logoColor=4a9eff)](.)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-1a1a0d?style=flat-square&logo=pytorch&logoColor=EE4C2C)](.)
+[![Docker](https://img.shields.io/badge/Docker-0d1a2d?style=flat-square&logo=docker&logoColor=4a9eff)](.)
+[![AWS](https://img.shields.io/badge/AWS-1a1a0d?style=flat-square&logo=amazonaws&logoColor=FF9900)](.)
+
+---
+
+## 🧠 Outros Projetos
+
+| Projeto | Descrição | Stack |
+|--------|-----------|-------|
+| **StudyFlow** | RAG implementado do zero — embeddings, indexação vetorial, geração contextual | `FastAPI` `pgvector` `RAG` `Embeddings` |
+| **SunOPS** | CRM para integradores solares com geração de relatórios automatizada | `Django` `FastAPI` `RabbitMQ` `Redis` |
+| **Agente WhatsApp** | Backend com RAG empresarial para atendimento automatizado | `FastAPI` `Agents` `RAG` |
+| **URLShorts** | Encurtador de URL projetado para alta escala | `Redis` `CassandraDB` |
+| **Gateway de Pagamento** | Integração Mercado Pago com validação HMAC de webhooks | `.NET` `C#` |
+| **Emissor NF-e** | Integração SEFAZ, XML fiscal, certificados digitais | `Java` `Spring` |
+
+---
+
+## ⚙️ Stack
+
 <div align="center">
 
-### 💼 O Que Eu Faço
+**Linguagens**
 
-> Desenvolvo soluções backend **escaláveis**, **seguras** e **performáticas** utilizando Python e arquiteturas modernas baseadas em microsserviços.
+[![My Skills](https://skillicons.dev/icons?i=python,cs,java,go,ts)](.)
+
+**Backend & Frameworks**
+
+[![My Skills](https://skillicons.dev/icons?i=fastapi,django,dotnet,spring)](.)
+
+**Dados & Infra**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,aws,nginx,linux)](.)
+
+**ML / AI**
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,opencv)](.)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🏗️ Como Penso Sobre Sistemas
 
-<div align="center">
-
-### 🐍 Backend & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
-### 🗄️ Databases & Cache
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🔧 Other Technologies
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldourado8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldourado8&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaeldourado8&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&locale=pt_BR" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaeldourado8&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3B82F6&line=3B82F6&point=ffffff" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafaeldourado8&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🎯 Áreas de Interesse
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Rafael<br/>Dourado))
-    Backend Development
-      FastAPI & Flask
-      RESTful APIs
-      GraphQL
-    Architecture
-      Microservices
-      Clean Architecture
-      Design Patterns
-    Infrastructure
-      Docker & Kubernetes
-      CI/CD Pipelines
-      Cloud Computing
-    Messaging & Cache
-      RabbitMQ
-      Redis
-      Event-Driven Architecture
+```
+┌─────────────────────────────────────────────────────────────┐
+│  1. Requisitos funcionais     → o que o sistema faz         │
+│  2. Requisitos não funcionais → latência, throughput, SLA   │
+│  3. Estimativa de capacidade  → QPS, storage, bandwidth     │
+│  4. Modelagem de dados        → entidades, índices, queries │
+│  5. API Design                → contratos entre serviços    │
+│  6. Arquitetura               → onde cada componente vive   │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-</div>
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0d1a2d?style=flat-square&color=0d1a2d&labelColor=0d1a2d&logo=buffer&logoColor=4a9eff)
+![DDD](https://img.shields.io/badge/Domain_Driven_Design-0d1a2d?style=flat-square&color=0d1a2d&labelColor=0d1a2d&logo=buffer&logoColor=4a9eff)
+![SOLID](https://img.shields.io/badge/SOLID-0d1a2d?style=flat-square&color=0d1a2d&labelColor=0d1a2d&logo=buffer&logoColor=4a9eff)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-0d1a2d?style=flat-square&color=0d1a2d&labelColor=0d1a2d&logo=buffer&logoColor=4a9eff)
+![CAP Theorem](https://img.shields.io/badge/CAP_Theorem-0d1a2d?style=flat-square&color=0d1a2d&labelColor=0d1a2d&logo=buffer&logoColor=4a9eff)
+![Microsserviços](https://img.shields.io/badge/Microsservi%C3%A7os-0d1a2d?style=flat-square&color=0d1a2d&labelColor=0d1a2d&logo=buffer&logoColor=4a9eff)
 
 ---
 
-## 💡 Filosofia de Desenvolvimento
+## 📊 Stats
 
 <div align="center">
 
-> ### "Code is like humor. When you have to explain it, it's bad."
-> 
-> Acredito em código limpo, testes automatizados e documentação clara.
-> 
-> Sempre buscando **performance**, **escalabilidade** e **manutenibilidade**.
-
-</div>
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaeldourado8&theme=tokyonight" alt="GitHub Activity"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaeldourado8&theme=tokyonight" alt="Repos por Linguagem"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaeldourado8&theme=tokyonight" alt="Commits por Linguagem"/>
-</div>
-
----
-
-## 📫 Vamos Conversar?
-
-<div align="center">
-
-Estou sempre aberto a novos desafios e colaborações!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-dourado-dev/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeldouradoc7@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaeldourado8)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Obrigado%20pela%20visita!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
-
-<img src="https://komarev.com/ghpvc/?username=rafaeldourado8&style=for-the-badge&color=3B82F6" alt="Profile Views"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=rafaeldourado8&show_icons=true&theme=github_dark&bg_color=0a0a0a&border_color=1e1e1e&title_color=4a9eff&icon_color=4caf70&text_color=888888&count_private=true" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldourado8&layout=compact&theme=github_dark&bg_color=0a0a0a&border_color=1e1e1e&title_color=4a9eff&text_color=888888&langs_count=6" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>✨ Construído com ☕ por Rafael Dourado</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2a1f,50:0d1f2d,100:0a0a0a&height=80&section=footer" width="100%"/>
+
+*"System Design é uma forma do arquiteto se expressar, se convencer e vender."*
+
 </div>
